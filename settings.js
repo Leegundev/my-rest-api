@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Zexuansa'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://loliteam:LolyTelanjang123@loliteam.7qp52at.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "" //email
 global.email_password = "" //application password email
